@@ -1,0 +1,17 @@
+.main-title {
+    font-size: 42px;
+    font-weight: 700;
+}
+
+.subtitle {
+    color: #777;
+    font-size: 16px;
+}
+
+.memory-status {
+    display: inline-block;
+    padding: 6px 12px;
+    border-radius: 20px;
+    background: #f1f1f1;
+    font-size: 14px;
+}
